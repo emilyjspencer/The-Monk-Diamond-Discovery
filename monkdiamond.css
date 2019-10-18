@@ -1,0 +1,74 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 250px;
+    border: 10px sold pink;
+    padding: 75px;
+}
+
+body {
+    colour: #b2e6ed;
+}
+
+h2 {
+    text-align: center;
+}
+
+.main-text {
+    text-align: center;
+    background-color: plum;
+}
+
+.header {
+    background-color: lightblue;
+    height: 250px;
+    text-align: center;
+    font-size: 36pt;
+    color: grey;
+}
+
+.welcome {
+    background-color: plum;
+    color: black;
+    font-size: 16px;
+    text-align: center;
+    height: 150px;
+    margin: 0px;
+}
+
+#siberia {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%
+    height: 700px;
+    width:600px;
+}
+
+.siberia {
+    height : 1000px;
+}
+
+div {
+    text-align: center;
+    background-color: #b0edf7;
+}
+
+.happy {
+    text-align: center;
+    background-color: #b0edf7;
+    height 200px;
+}
+
+ul {
+    margin: auto;
+    display: table;
+}
+
+figcaption {
+    display: block;
+    font_size: 40px;
+    color: black;
+  }
