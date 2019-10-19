@@ -1,0 +1,44 @@
+#add-item {
+    background-color: pink;
+}
+
+.header {
+    text-align: center;
+    background-color: lightblue;
+    height: 120px;
+}
+
+body {
+    background-color: #d2a3f0;
+    text-align: center;
+}
+
+#button {
+    background-color: lightblue;
+}
+
+#house-of-volkov {
+    height: 97%;
+    width: 13%;
+    display: block;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid lightblue;
+ 
+}
+
+#house-of-volkov2 {
+    height: 97%;
+    width: 13%;
+    display: block;
+    float: right;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid lightblue;
+  
+}
+
+#box {
+    background-color: #cce6ff;
+}
