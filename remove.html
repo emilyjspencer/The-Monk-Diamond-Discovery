@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Remove Items</title>
+  <script>
+    function removeItem(item) {
+        document.getElementById("list").removeChild(item);    
+        }
+  </script>
+</head>
+<body>
+  <div id="list">
+    Security to protect scientists
+    <div onclick="removeItem(this);">
+      Items to bring
+    </div>
+  </div>
+</body>
+</html>
+
