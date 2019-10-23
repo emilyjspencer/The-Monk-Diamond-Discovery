@@ -1,16 +1,30 @@
 
       #board {
           border: 1px solid black;
-          background-color: grey;
+          background-color: #dd99ff;
           height: 350px;
           width: 650px;
       }
 
       .character {
-          background-color: lightblue;
+          background: url('guest.jpg');
+          background-size: cover;
           width: 120px;
           height: 120px;
           padding: 10px;
           margin: 10px;
           float: left;
+      }
+       
+      .thief {
+          background: url('thief.jpg');
+          background-size: cover;
+      }
+
+      .hidden {
+          display: none;
+      }
+
+      .visible {
+          display: block;
       }
