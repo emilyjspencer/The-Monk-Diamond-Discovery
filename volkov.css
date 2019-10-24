@@ -1,0 +1,28 @@
+.image {
+text-align: center;
+}
+
+.text {
+    text-align: center;
+
+}
+
+.menu {
+    text-align: center;
+}
+
+.map {
+    width: 20%;
+    float: right;
+    text-align: center;
+
+}
+
+.footer {
+    text-align: center;
+
+}
+
+body {
+    background-color:  #d0d0e1;
+}
